@@ -42,10 +42,10 @@
 
 ```zsh
     # Clonando o repositório em sua máquina
-    $ git clone https://github.com/edsonjaguiar/crud-drinks
+    $ git clone https://github.com/edsonjaguiar/authentication-api
 
     # Acessando o repositório
-    $ cd crud-drinks
+    $ cd authentication-api
 
     # Instalando as dependências
     $ yarn
